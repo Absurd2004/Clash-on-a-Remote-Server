@@ -98,5 +98,5 @@
    ```
    如果想要让远程服务器的copilot这些扩展也可以使用代理端口，需要更改vscode的代理设置。
 
-   找到vscode左下角的齿轮按钮（Manage/管理），然后选择 Settings（设置）。在设置的搜索栏中输入 “proxy”。找到 Http: Proxy ，在这里输入你的代理地址（如 http://127.0.0.1:7890）。之后应该就可以让copilot连接上代理了。
+   找到vscode左下角的齿轮按钮（Manage/管理），然后选择 Settings（设置）。在设置的搜索栏中输入 “proxy”。找到 Http: Proxy ，在这里输入你的代理地址（如 http://127.0.0.1:7890 ）。之后应该就可以让copilot连接上代理了。
 
